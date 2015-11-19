@@ -8,6 +8,8 @@ List of initiatives and infos about women in tech and the industry's gender gap
 
 ##Initiatives
 * [Black Girls Code](http://www.blackgirlscode.com/): Black Girls CODE is devoted to showing the world that black girls can code, and do so much more.
+* [Girls Who Code](http://girlswhocode.com/): Girls Who Code programs work to inspire, educate, and equip girls with the computing skills to pursue 21st century opportunities.
+* [she++](http://www.sheplusplus.org/): She++ is a social enterprise that empowers women to make their mark on the technology industry.
 * [Celebrating Ada](http://info.thoughtworks.com/ada2015.html)
 
 ##Articles
@@ -21,6 +23,10 @@ List of initiatives and infos about women in tech and the industry's gender gap
 ##Documentaries
 * [Code Girl](http://www.codegirlmovie.com/)
 * [CODE: Debugging the Gender Gap](http://www.codedocumentary.com/)
+* [she++ The Documentary](https://www.youtube.com/watch?v=DqrfPCGo2aQ)
+
+##Videos
+* [she++ Tech Stories()](https://www.youtube.com/watch?v=uzFEhk4Vb_E&list=PLlR1jMk7qy0JpMC9tyWUiC_i8wHxKmonB)
 
 ##Decks
 ###en Español
