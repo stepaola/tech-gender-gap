@@ -34,5 +34,8 @@ List of initiatives and infos about women in tech and the industry's gender gap
 * [Django Girls](https://djangogirls.org/)
 * [PyLadies](http://www.pyladies.com)
 
+###Learn to code
+* [Hackbright Academy](https://hackbrightacademy.com/): A software engineering school for women founded in San Francisco in 2012. The academy graduates more female engineers than Stanford and UC Berkeley each year.
+
 #Contributing
 I would love this list to be collaborative, so your contribution is pretty welcome! You can do so by [sending a pull request](https://help.github.com/articles/creating-a-pull-request/)
