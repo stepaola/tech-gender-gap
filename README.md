@@ -16,6 +16,9 @@ List of initiatives and infos about women in tech and the industry's gender gap
 * [What are the numbers?](https://medium.com/@triketora/where-are-the-numbers-cb997a57252#.l4b2hslrk) by [Tracy Chou](https://twitter.com/triketora)
 * [Overcoming Impostor Syndrome](https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5#.tf84j4p4i) by [Alicia Liu](https://twitter.com/aliciatweet)
 * [The Stories of ‘Women In Tech’ That We May Never Hear](https://medium.com/absurdist/the-stories-of-women-in-tech-that-we-may-never-hear-7379f502fb52#.qp0i88bk8) by [Julie Ann Horvath](https://twitter.com/nrrrdcore)
+* [If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.dlp5d57is) by [Rachel Thomas](https://twitter.com/math_rachel)
+* [Giving Diversity a Second Chance](https://medium.com/@cmrberry/giving-diversity-a-second-chance-76554ae8bded#.dvzxv8nq7) by [Rachel Berry](https://twitter.com/cmrberry)
+* [Women in Tech: The Struggle to Stay Technical](https://stories.expost-news.com/women-in-tech-the-struggle-to-stay-technical-ed943a2cb252#.5gtxjczcv) by [Kinsey Ann Durham](https://twitter.com/KinseyAnnDurham)
 
 ##Talks
 * [It Takes a Village to Make a Programmer](https://www.youtube.com/watch?v=FHNrw7aiKOE) by [Michele Guido](https://twitter.com/sheley) @ JSConf EU
