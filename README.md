@@ -32,6 +32,7 @@ List of initiatives and infos about women in tech and the industry's gender gap
 
 ##Videos
 * [she++ Tech Stories()](https://www.youtube.com/watch?v=uzFEhk4Vb_E&list=PLlR1jMk7qy0JpMC9tyWUiC_i8wHxKmonB)
+* [The career advice you probably didn’t get](http://www.ted.com/talks/susan_colantuono_the_career_advice_you_probably_didn_t_get?language=en) by [Susan Colantuono](https://twitter.com/leadingwomen) @ TEDBeaconStreet
 
 ##Decks
 ###en Español
