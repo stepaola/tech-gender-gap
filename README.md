@@ -19,6 +19,8 @@ List of initiatives and infos about women in tech and the industry's gender gap
 * [If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.dlp5d57is) by [Rachel Thomas](https://twitter.com/math_rachel)
 * [Giving Diversity a Second Chance](https://medium.com/@cmrberry/giving-diversity-a-second-chance-76554ae8bded#.dvzxv8nq7) by [Rachel Berry](https://twitter.com/cmrberry)
 * [Women in Tech: The Struggle to Stay Technical](https://stories.expost-news.com/women-in-tech-the-struggle-to-stay-technical-ed943a2cb252#.5gtxjczcv) by [Kinsey Ann Durham](https://twitter.com/KinseyAnnDurham)
+* [The Real Reason Most Women Don't Go Into Tech](http://www.forbes.com/sites/quickerbettertech/2015/03/16/the-real-reason-most-women-dont-go-into-tech/) on Forbes Tech
+* [The Real Reason Most Women Don't Go Into Tech, According To Women](http://www.forbes.com/sites/valleyvoices/2015/03/19/the-real-reason-most-women-dont-go-into-tech-according-to-women/) on Forbes Tech
 
 ##Talks
 * [It Takes a Village to Make a Programmer](https://www.youtube.com/watch?v=FHNrw7aiKOE) by [Michele Guido](https://twitter.com/sheley) @ JSConf EU
