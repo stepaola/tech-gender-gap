@@ -12,6 +12,7 @@ List of initiatives and infos about women in tech and the industry's gender gap
 * [she++](http://www.sheplusplus.org/): She++ is a social enterprise that empowers women to make their mark on the technology industry.
 * [Celebrating Ada](http://info.thoughtworks.com/ada2015.html)
 * [PrograMaria](http://www.programaria.org/)
+* [Minas Programam](http://minasprogramam.com)
 
 ##Articles
 * [What are the numbers?](https://medium.com/@triketora/where-are-the-numbers-cb997a57252#.l4b2hslrk) by [Tracy Chou](https://twitter.com/triketora)
