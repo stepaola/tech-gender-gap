@@ -13,6 +13,7 @@ List of initiatives and infos about women in tech and the industry's gender gap
 * [Celebrating Ada](http://info.thoughtworks.com/ada2015.html)
 * [PrograMaria](http://www.programaria.org/)
 * [Minas Programam](http://minasprogramam.com)
+* [Mulheres na Tecnologia](http://www.mulheresnatecnologia.org)
 
 ##Articles
 * [What are the numbers?](https://medium.com/@triketora/where-are-the-numbers-cb997a57252#.l4b2hslrk) by [Tracy Chou](https://twitter.com/triketora)
